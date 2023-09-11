@@ -1,1 +1,3 @@
-alert('Ola mundo');
+function tocaSomPom () {
+    document. querySelector ()   
+}
